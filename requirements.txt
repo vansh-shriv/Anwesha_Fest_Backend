@@ -1,0 +1,4 @@
+typing
+termcolor
+firebase admin
+fastapi
